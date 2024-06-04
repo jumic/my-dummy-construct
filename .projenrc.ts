@@ -6,7 +6,7 @@ const project = new awscdk.AwsCdkConstructLibrary({
   cdkVersion: "2.1.0",
   defaultReleaseBranch: "main",
   jsiiVersion: "~5.4.0",
-  name: "@jumic/my-dummy-construct",
+  name: "@jumic/my-dummy-construct2",
   projenrcTs: true,
   repositoryUrl: "https://github.com/jumic/my-dummy-construct.git",
 
