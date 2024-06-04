@@ -4,12 +4,12 @@
 
 ## Classes <a name="Classes" id="Classes"></a>
 
-### Hello <a name="Hello" id="my-dummy-construct.Hello"></a>
+### Hello <a name="Hello" id="@jumic/my-dummy-construct.Hello"></a>
 
-#### Initializers <a name="Initializers" id="my-dummy-construct.Hello.Initializer"></a>
+#### Initializers <a name="Initializers" id="@jumic/my-dummy-construct.Hello.Initializer"></a>
 
 ```typescript
-import { Hello } from 'my-dummy-construct'
+import { Hello } from '@jumic/my-dummy-construct'
 
 new Hello()
 ```
@@ -23,11 +23,11 @@ new Hello()
 
 | **Name** | **Description** |
 | --- | --- |
-| <code><a href="#my-dummy-construct.Hello.sayHello">sayHello</a></code> | *No description.* |
+| <code><a href="#@jumic/my-dummy-construct.Hello.sayHello">sayHello</a></code> | *No description.* |
 
 ---
 
-##### `sayHello` <a name="sayHello" id="my-dummy-construct.Hello.sayHello"></a>
+##### `sayHello` <a name="sayHello" id="@jumic/my-dummy-construct.Hello.sayHello"></a>
 
 ```typescript
 public sayHello(): string
