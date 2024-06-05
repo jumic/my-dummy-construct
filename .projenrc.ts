@@ -15,6 +15,10 @@ const project = new awscdk.AwsCdkConstructLibrary({
   releaseToNpm: true,
   npmAccess: NpmAccess.RESTRICTED,
 
+  autoApproveOptions: {
+    allowedUsernames: ["github-bot", "jumic"],
+  },
+
   majorVersion: 1,
 
   // deps: [],                /* Runtime dependencies of this module. */
